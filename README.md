@@ -2,8 +2,7 @@
 
 An interactive dashboard that tracks key sales metrics like top-performing products, category-wise trends, and order processing delays. Built with Python (Streamlit) for data handling and visualization, and optionally integrated with Power BI for executive-level reporting.
 
-![Dashboard Preview](./Data/sales_kpi_dashboard.gif)
----
+![Dashboard Preview](./Data/sales_kpi_dashbaord.gif)
 
 ## 🚀 Features
 
